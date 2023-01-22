@@ -1,0 +1,9 @@
+{
+  "globalOptions": {
+    "background": "#111111",
+    "colladaLoader": "collada2",
+    "fixedFrame": "/map"
+  },
+  "sidebarOpened": true,
+  "displays": []
+}
